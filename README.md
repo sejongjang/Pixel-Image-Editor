@@ -11,7 +11,7 @@ Pixel Image Editor written in Java
 
 - Generate an “embossed” image
 
-![](images/emboss.jpg)
+![](images/embosse.jpg)
 
 - Add a motion-blur effect
 
